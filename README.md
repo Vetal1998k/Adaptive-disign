@@ -1,2 +1,2 @@
 # Adaptive-disign
-Fluid grid, Media queries, Flexib;e media.
+Fluid grid, Media queries, Flexible media.
